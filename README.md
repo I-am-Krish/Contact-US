@@ -21,4 +21,4 @@ Overall, Contact Us is a simple yet effective way for users to communicate with 
 * JavaScript
 
 ### Screenshot
-![Ss1](![Contact us form](https://github.com/I-am-Krish/Contact-US/assets/81500145/407cdbc4-58be-4233-994a-e47b612aa984))
+![Ss1](https://github.com/I-am-Krish/Contact-US/assets/81500145/407cdbc4-58be-4233-994a-e47b612aa984)
